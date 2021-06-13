@@ -6,7 +6,11 @@
 
     <groupId>com.thankstonica.springboot</groupId>
     <artifactId>springBoorDemo</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>springTest01</module>
+    </modules>
 
 
 </project>
